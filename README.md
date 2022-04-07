@@ -7,7 +7,7 @@ Transformer une maquette en site web avec HTML & CSS
 🔗 https://gulcanc.github.io/OPC_1/
 
 ### ☑️ A Propos du Projet
-Ce projet est le choix parfait pour apprendre et pratiquer les media queries et les techniques de boîte flexible car la version mobile et la version desktop sont très différentes. 
+Ce projet est le choix parfait pour apprendre et pratiquer les media queries et les techniques de boîte flexible, car la version mobile et la version desktop sont très différentes. 
 Pour ce projet, mon site web est le site web d’une petite entreprise proposant un outil de planification de vacances. Mon site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur  ambiance.
 
 ### ☑️ Les Objectifs du Projet
