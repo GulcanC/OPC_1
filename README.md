@@ -1,16 +1,16 @@
  
-### Open Classrooms Projet 1
+### ☑️ Open Classrooms Projet 1
 
 Transformer une maquette en site web avec HTML & CSS
 
-### Visitez la page du projet
+### ☑️ Visitez la page du projet
 🔗 https://gulcanc.github.io/OPC_1/
 
-### A Propos du Projet
+### ☑️ A Propos du Projet
 Ce projet est le choix parfait pour apprendre et pratiquer les media queries et les techniques de boîte flexible car la version mobile et la version desktop sont très différentes. 
 Pour ce projet, mon site web est le site web d’une petite entreprise proposant un outil de planification de vacances. Mon site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur  ambiance.
 
-### Les Objectifs du Projet
+### ☑️ Les Objectifs du Projet
 
 1. Découper et d’intégrer une maquette 
 2. Traduire la maquette en langage web, c’est-à-dire en HTML et en CSS
@@ -23,7 +23,7 @@ Pour ce projet, mon site web est le site web d’une petite entreprise proposant
 9. Création d'une barre de navigation
 10. Utiliser la liste non ordonnée
 
-### Les Détails du Projet
+### ☑️ Les Détails du Projet
 
 
 
