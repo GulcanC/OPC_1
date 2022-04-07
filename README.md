@@ -19,6 +19,8 @@ Pour ce projet, mon site web est le site web d’une petite entreprise proposant
 6. Pratiquer les sélecteurs CSS et les balises HTML
 7. Utiliser les cartes et les images d’arrière-plan dans le projet
 8. Utiliser FontAwsom icons
+9. Création d'une barre de navigation
+10. Utiliser la liste non ordonnée
 
 ### Les Détails du Projet
 
