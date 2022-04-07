@@ -1,5 +1,3 @@
-
-
 /* For this project we will use "Raleway" font-family, police fr */
 
 @import url("https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800;900&display=swap");
@@ -292,7 +290,7 @@ section [class="info"] i {
   background-position: center;
   width: 100%;
   height: 120px;
-  border-radius: 15px 15px 0 0;  /* top-left top-right bottom-right bottom-left  */
+  border-radius: 15px 15px 0 0; /* top-left top-right bottom-right bottom-left  */
 }
 
 .hosting_image_2 {
@@ -701,9 +699,9 @@ footer div:not(:first-child) {
 }
 
 @media screen and (min-width: 768px) and (max-width: 797px) {
- .popular_card_body h3{
-   font-size: 15px;
- }
+  .popular_card_body h3 {
+    font-size: 15px;
+  }
 }
 
 @media (max-width: 768px) {
@@ -863,13 +861,11 @@ footer div:not(:first-child) {
     display: flex;
     flex-direction: column;
     padding: 20px;
-    
   }
 
   footer div {
     margin: 0 30px !important;
   }
- 
 }
 
 @media (max-width: 576px) {
@@ -913,33 +909,31 @@ footer div:not(:first-child) {
     font-size: 12px;
   }
 
-  .popular_image_2
-{
-  height: 179px;}
+  .hosting_title {
+    margin: 0 0 30px 20px;
+  }
+
+  .popular_image_2 {
+    height: 179px;
+  }
 }
 
 @media (max-width: 333px) {
   #input_search {
     width: 46%;
     font-size: 12px;
-    
   }
-  .popular{
-  padding: 20px;
+  .popular {
+    padding: 20px;
   }
-
 }
-
-
-
- 
 
 /* ANIMATIONS */
 
 /* Flashing effect*/
 .flash:hover {
   opacity: 1;
- /* -webkit-animation: flash 1.5s; */
+  /* -webkit-animation: flash 1.5s; */
   animation: flash 1.5s;
 }
 
