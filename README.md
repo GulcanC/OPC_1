@@ -7,6 +7,7 @@ Transformer une maquette en site web avec HTML & CSS
 🔗 https://gulcanc.github.io/OPC_1/
 
 ### A Propos du Projet
+Pour ce projet, mon site web est le site web d’une petite entreprise proposant un outil de planification de vacances. Mon site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur  ambiance.
 
 ### Les Objectifs du Projet
 
@@ -17,6 +18,10 @@ Transformer une maquette en site web avec HTML & CSS
 5. Pratiquer le technique flex box
 6. Pratiquer les sélecteurs CSS et les balises HTML
 7. Utiliser les cartes et les images d’arrière-plan dans le projet
+8. Utiliser FontAwsom icons
+
+### Les Détails du Projet
+
 
 
 
