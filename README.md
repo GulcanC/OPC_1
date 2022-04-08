@@ -35,16 +35,26 @@ Pour ce projet, mon site web est le site web d’une petite entreprise proposant
 
 ### ☑️ Les Objectifs du Projet
 
-💧 Découper et d’intégrer une maquette  
+💧 Découper et d’intégrer une maquette 
+
 💧 Traduire la maquette en langage web, c’est-à-dire en HTML et en CSS
+
 💧 Créer un site web qui consultera à la fois sur un portable, une tablette ou un ordinateur sans perdre en lisibilité et en vitesse de chargement
+
 💧 La validitıon du code auprès du W3C [La validation pour HTML](https://validator.w3.org/) | [La validation pour CSS](https://jigsaw.w3.org/css-validator/)
+
 💧 Pratiquer le technique flex box
+
 💧 Pratiquer les sélecteurs CSS et les balises HTML
+
 💧 Utiliser les cartes et les images d’arrière-plan dans le projet
+
 💧 Utiliser FontAwsom icons
+
 💧 Création d'une barre de navigation
+
 💧 Utiliser la liste non ordonnée
+
 
 ### ☑️ Les Techniques Utilisés
 
