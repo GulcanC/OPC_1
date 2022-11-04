@@ -7,7 +7,9 @@ Transformer une maquette en site web avec HTML & CSS
 🔗 https://gulcanc.github.io/OPC_1/
 
 ### ☑️ A Propos du Projet
-Au sein du Projet n°2 du parcours Développeur Web chez OpenClassrooms j'ai créer un site web responsive. Ce projet est le choix parfait pour apprendre et pratiquer les media queries et les techniques de boîte flexible, car la version mobile et la version desktop sont très différentes. Pour chaque version, afin de rendre parfaitement mon projet dans le navigateur, j'ai fréquemment utilisé les paires propriété/valeur suivantes pour les éléments parents et les éléments enfants:
+Au sein du Projet n°2 du parcours Développeur Web chez OpenClassrooms j'ai crée un site web responsive. Pour ce projet, mon site web est le site web d’une petite entreprise proposant un outil de planification de vacances. Mon site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur  ambiance.
+
+Ce projet est le choix parfait pour apprendre et pratiquer les media queries et les techniques de boîte flexible, car la version mobile et la version desktop sont très différentes. Pour chaque version, afin de rendre parfaitement mon projet dans le navigateur, j'ai fréquemment utilisé les paires propriété/valeur suivantes pour les éléments parents et les éléments enfants:
 
 * Pour les éléments parents:
 
@@ -31,7 +33,6 @@ Au sein du Projet n°2 du parcours Développeur Web chez OpenClassrooms j'ai cr�
   
   flex:2
 
-Pour ce projet, mon site web est le site web d’une petite entreprise proposant un outil de planification de vacances. Mon site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur  ambiance.
 
 ### ☑️ Les Objectifs du Projet
 
