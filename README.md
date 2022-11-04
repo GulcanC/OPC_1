@@ -42,7 +42,7 @@ Ce projet est le choix parfait pour apprendre et pratiquer les media queries et 
 
 💧 Créer un site web qui consultera à la fois sur un portable, une tablette ou un ordinateur sans perdre en lisibilité et en vitesse de chargement
 
-💧 La validitıon du code auprès du W3C [La validation pour HTML](https://validator.w3.org/) | [La validation pour CSS](https://jigsaw.w3.org/css-validator/)
+💧 La validation du code auprès du W3C [La validation pour HTML](https://validator.w3.org/) | [La validation pour CSS](https://jigsaw.w3.org/css-validator/)
 
 💧 Pratiquer le technique flex box
 
